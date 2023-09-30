@@ -1,5 +1,2 @@
-#!bin/bash 
-
-# username of the current user
+#!/bin/bash 
 username=$(whoami)
-echo $username
