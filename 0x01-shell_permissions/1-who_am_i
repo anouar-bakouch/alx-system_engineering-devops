@@ -1,4 +1,3 @@
 #!/bin/bash
-id -un
 
-
+echo $(whoami)
